@@ -4,7 +4,7 @@
 ```
 ./install-zalando.sh
 ```
-### **Port Forward UI**
+### **Port Forward Zalando UI**
 1. Run command
 ```
 kubectl port-forward svc/postgres-operator-ui 8081:80
